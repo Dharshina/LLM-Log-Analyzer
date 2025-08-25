@@ -1,0 +1,41 @@
+[main] INFO sample_app.Sample.App.SampleAppApplication - Application started successfully.
+[main] INFO sample_app.Sample.App.DatabaseService - Query executed successfully: SELECT * FROM users WHERE id=0
+[main] INFO sample_app.Sample.App.DatabaseService - Query executed successfully: SELECT * FROM users WHERE id=1
+[main] ERROR sample_app.Sample.App.DatabaseService - Failed to execute query: Connection timed out.
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null
+[main] INFO sample_app.Sample.App.DatabaseService - Query executed successfully: SELECT * FROM users WHERE id=3
+[main] ERROR sample_app.Sample.App.DatabaseService - SQLException: Deadlock detected while processing transaction ID 4567.[main] ERROR sample_app.Sample.App.DatabaseService - Failed to execute query: Connection timed out.
+[main] ERROR sample_app.Sample.App.DatabaseService - Failed to execute query: Connection timed out.
+2025-08-02 18:20:00 CRITICAL [PaymentService] - NullPointerException caused service crash during payment processing
+2025-08-02 18:20:00 CRITICAL [PaymentService] - NullPointerException caused service crash during payment processing
+2025-08-02 18:20:00 CRITICAL [PaymentService] - NullPointerException caused service crash during payment processing
+2025-08-02 18:20:00 CRITICAL [PaymentService] - NullPointerException caused service crash during payment processing
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 

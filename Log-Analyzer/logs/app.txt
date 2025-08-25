@@ -1,0 +1,1 @@
+[main] ERROR sample_app.Sample.App.PaymentService - NullPointerException: Cannot invoke "PaymentProcessor.process()" because "processor" is null 
